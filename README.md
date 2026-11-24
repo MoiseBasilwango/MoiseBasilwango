@@ -91,11 +91,11 @@ A selection of projects that reflect my interest in building useful digital expe
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="top">
 
 ### Newspaper Website
 
-A personal `Newspaper Website` showcasing my skills and professional journey.
+A personal Newspaper Website showcasing my skills and professional journey.
 
 **Explore the project**
 
@@ -106,7 +106,7 @@ A personal `Newspaper Website` showcasing my skills and professional journey.
 /web/">Source Code ↗</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="top">
 
 ### WhatsApp Clone
 
