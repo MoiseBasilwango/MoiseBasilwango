@@ -1,11 +1,24 @@
 
-# Moïse Basilwango
+# 👾Moïse Basilwango
 
-### Full-Stack Developer | Building Web Applications with React, Node.js & Python
+`Full-Stack Developer | Building Web Applications with React, Node.js & Python`
 
 I build practical, user-focused web applications, combining frontend development with backend engineering. I'm interested in creating reliable, maintainable software and exploring how security and thoughtful design improve digital products.
 
-[Portfolio](https://moisebasilwango.github.io/MyPortfolio/) · [LinkedIn](https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/) · [GitHub](https://github.com/MoiseBasilwango) · [X](https://x.com/MoiseDevops)
+<p>
+  <a href="https://moisebasilwango.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MoiseBasilwango">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/MoiseDevops">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
 📍 Cape Town, South Africa
 
@@ -32,33 +45,37 @@ I'm continuously improving my engineering skills through hands-on projects and e
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases, Infrastructure & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Featured Projects
-
+<table>
+  <tr>
+  <td>
+    
 ### Newspaper Website
 
 A web-based newspaper platform focused on presenting news content through an organized and accessible interface.
@@ -69,7 +86,9 @@ A web-based newspaper platform focused on presenting news content through an org
 **Technologies:** Add the actual technologies used.
 
 [View Live Website](https://moisebasilwango.github.io/newspaper-website/web/) · [View Source Code](https://github.com/MoiseBasilwango/newspaper-website)
-
+</td>
+<td>
+  
 ### Talkie
 
 A messaging application inspired by WhatsApp, exploring the development of web-based communication interfaces.
@@ -80,18 +99,8 @@ A messaging application inspired by WhatsApp, exploring the development of web-b
 **Technologies:** Add the actual technologies used.
 
 [View Source Code](https://github.com/MoiseBasilwango/Whatsapp-clone)
-
----
-
-## Connect With Me
-
-I'm open to connecting with developers, collaborating on interesting projects, and exploring junior Full-Stack Developer opportunities.
-
-- **Portfolio:** [moisebasilwango.github.io/MyPortfolio](https://moisebasilwango.github.io/MyPortfolio/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/)
-- **GitHub:** [MoiseBasilwango](https://github.com/MoiseBasilwango)
-- **X:** [@MoiseDevops](https://x.com/MoiseDevops)
-
----
+</td>
+</tr>
+</table>
 
 <sub>© 2026 Moïse Basilwango · Cape Town, South Africa</sub>
