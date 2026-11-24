@@ -100,10 +100,10 @@ A personal `Newspaper Website` showcasing my skills and professional journey.
 **Explore the project**
 
 <a href="https://moisebasilwango.github.io/newspaper-website
-/web/index.html">View Portfolio ↗</a>
+/web/">View Portfolio ↗</a>
 
 <a href="https://github.com/MoiseBasilwango/newspaper-website
-/web/index.html">Source Code ↗</a>
+/web/">Source Code ↗</a>
 
 </td>
 <td width="50%" valign="top">
