@@ -70,7 +70,7 @@ A web-based newspaper platform focused on presenting news content through an org
 
 [View Live Website](https://moisebasilwango.github.io/newspaper-website/web/) · [View Source Code](https://github.com/MoiseBasilwango/newspaper-website)
 
-### WhatsApp Clone
+### Talkie
 
 A messaging application inspired by WhatsApp, exploring the development of web-based communication interfaces.
 
