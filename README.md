@@ -1,168 +1,97 @@
 
-<!--
-  MOÏSE BASILWANGO — GITHUB PROFILE
--->
+# Moïse Basilwango
 
-<div align="center">
+### Full-Stack Developer | Building Web Applications with React, Node.js & Python
 
-# 👾Moïse Basilwango.
+I build practical, user-focused web applications, combining frontend development with backend engineering. I'm interested in creating reliable, maintainable software and exploring how security and thoughtful design improve digital products.
 
-### Engineering experiences. Securing possibilities.
-
-`Full-Stack Developer · Product Builder · Security Enthusiast`
-
-Building thoughtful digital experiences through clean code, creative thinking, and a security-first mindset.
-
-<br/>
-
-<a href="https://moisebasilwango.github.io/MyPortfolio/">
-  <span>Explore my portfolio</span>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/MoiseBasilwango">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/MoiseDevops">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
-</a>
-
-<br/>
+[Portfolio](https://moisebasilwango.github.io/MyPortfolio/) · [LinkedIn](https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/) · [GitHub](https://github.com/MoiseBasilwango) · [X](https://x.com/MoiseDevops)
 
 📍 Cape Town, South Africa
-
-</div>
 
 ---
 
 ## About Me
 
-### I believe great technology should feel effortless.
+I'm a Full-Stack Developer focused on building web applications and solving practical problems through software.
 
-I'm Moïse, a Full-Stack Developer passionate about transforming ideas into functional, intuitive, and secure digital experiences.
+I enjoy working across the development stack, from designing user interfaces to implementing backend functionality and working with databases.
 
-My approach combines engineering with creativity. I care about how things work, how they look, and most importantly, the problems they solve.
+My interests include:
 
-I'm particularly interested in:
+- **Full-Stack Development:** Building frontend and backend applications.
+- **Product Engineering:** Turning ideas into functional digital products.
+- **Software Architecture:** Writing organized, maintainable code.
+- **Cybersecurity:** Understanding and applying security-conscious development practices.
 
-- **Product Engineering** — Turning ideas into useful digital products.
-- **Full-Stack Development** — Building across the frontend and backend.
-- **Cybersecurity** — Creating applications with security in mind.
-- **Software Architecture** — Writing maintainable, scalable, and thoughtful code.
-- **Innovation** — Exploring technologies and discovering better ways to build.
-
-I don't just want to write code. I want to build things that matter.
+I'm continuously improving my engineering skills through hands-on projects and exploring new technologies.
 
 ---
 
-## Technology
+## Tech Stack
 
-### The tools behind the ideas.
+### Languages
 
-**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,php,html,css&theme=dark" />
-</p>
+### Frameworks & Libraries
 
-**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=dark" />
-</p>
+### Databases, Infrastructure & Tools
 
-**Infrastructure & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker,git&theme=dark" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 
 ---
 
-## Selected Projects
-
-### Ideas, engineered into reality.
-
-A selection of projects that reflect my interest in building useful digital experiences.
-
-<table>
-<tr>
-<td width="50%" align="top">
+## Featured Projects
 
 ### Newspaper Website
 
-A personal Newspaper Website showcasing my skills and professional journey.
+A web-based newspaper platform focused on presenting news content through an organized and accessible interface.
 
-**Explore the project**
+- Developed a website for displaying and navigating news content.
+- Focused on interface design and content presentation.
 
-<a href="https://moisebasilwango.github.io/newspaper-website
-/web/">View Website ↗</a>
+**Technologies:** Add the actual technologies used.
 
-<a href="https://github.com/MoiseBasilwango/newspaper-website
-/web/">View Repository ↗</a>
-
-</td>
-<td width="50%" align="top">
+[View Live Website](https://moisebasilwango.github.io/newspaper-website/web/) · [View Source Code](https://github.com/MoiseBasilwango/newspaper-website)
 
 ### WhatsApp Clone
 
-A messaging application clone built as a software development project.
+A messaging application inspired by WhatsApp, exploring the development of web-based communication interfaces.
 
-**Explore the project**
+- Developed a messaging-focused application interface.
+- Explored the implementation of messaging application functionality.
 
-<a href="https://github.com/MoiseBasilwango/Whatsapp-clone">View Repository ↗</a>
+**Technologies:** Add the actual technologies used.
 
-</td>
-</tr>
-</table>
-
----
-
-## GitHub
-
-### A record of curiosity, consistency, and creation.
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MoiseBasilwango&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiseBasilwango&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999" />
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoiseBasilwango&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
+[View Source Code](https://github.com/MoiseBasilwango/Whatsapp-clone)
 
 ---
 
-## Let's Connect
+## Connect With Me
 
-### Great things start with conversations.
+I'm open to connecting with developers, collaborating on interesting projects, and exploring junior Full-Stack Developer opportunities.
 
-I'm always interested in connecting with developers, designers, founders, and people who are passionate about technology and innovation.
-
-Whether it's an interesting project, a creative idea, or an opportunity to collaborate, let's connect.
-
-<div align="center">
-
-<a href="https://moisebasilwango.github.io/MyPortfolio/">PORTFOLIO</a> ·
-<a href="https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/">LINKEDIN</a> ·
-<a href="https://x.com/MoiseDevops">X / TWITTER</a> ·
-<a href="https://github.com/MoiseBasilwango">GITHUB</a>
-
-<br/><br/>
+- **Portfolio:** [moisebasilwango.github.io/MyPortfolio](https://moisebasilwango.github.io/MyPortfolio/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mo%C3%AFse-basilwango-full-stackdev/)
+- **GitHub:** [MoiseBasilwango](https://github.com/MoiseBasilwango)
+- **X:** [@MoiseDevops](https://x.com/MoiseDevops)
 
 ---
-
-### Think. Build. Secure. Innovate.
-
-**Designed with intention. Engineered with purpose.**
 
 <sub>© 2026 Moïse Basilwango · Cape Town, South Africa</sub>
-
-</div>
