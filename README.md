@@ -116,7 +116,7 @@ A messaging application inspired by WhatsApp, exploring the development of web-b
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[View Live Website](https://moisebasilwango.github.io/Whatsapp-clone) · [View Source Code](https://github.com/MoiseBasilwango/Whatsapp-clone)
+[View Live Website](https://moisebasilwango.github.io/Talkie) · [View Source Code](https://github.com/MoiseBasilwango/Talkie)
 
 </td>
 </tr>
