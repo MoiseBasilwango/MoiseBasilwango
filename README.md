@@ -93,15 +93,17 @@ A selection of projects that reflect my interest in building useful digital expe
 <tr>
 <td width="50%" valign="top">
 
-### My Portfolio
+### Newspaper Website
 
-A personal portfolio showcasing my work, background, and professional journey.
+A personal `Newspaper Website` showcasing my skills and professional journey.
 
 **Explore the project**
 
-<a href="https://moisebasilwango.github.io/MyPortfolio/">View Portfolio ↗</a>
+<a href="https://moisebasilwango.github.io/newspaper-website
+/web/index.html">View Portfolio ↗</a>
 
-<a href="https://github.com/MoiseBasilwango/MyPortfolio">Source Code ↗</a>
+<a href="https://github.com/MoiseBasilwango/newspaper-website
+/web/index.html">Source Code ↗</a>
 
 </td>
 <td width="50%" valign="top">
