@@ -50,8 +50,8 @@ A collection of ideas, experiments, and things I've brought to life.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=888888" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moisebasliwango&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moisebasliwango&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=888888" height="165" />
 </p>
 
 ---
