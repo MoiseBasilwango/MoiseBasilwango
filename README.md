@@ -1,16 +1,15 @@
 
 <!--
   MOÏSE BASILWANGO — GITHUB PROFILE
-  Design direction: Apple / Space Black
 -->
 
 <div align="center">
 
-# MOÏSE.
+# 👾Moïse Basilwango.
 
 ### Engineering experiences. Securing possibilities.
 
-**Full-Stack Developer · Product Builder · Security Enthusiast**
+`Full-Stack Developer · Product Builder · Security Enthusiast`
 
 Building thoughtful digital experiences through clean code, creative thinking, and a security-first mindset.
 
