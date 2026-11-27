@@ -76,7 +76,7 @@ I'm continuously improving my engineering skills through hands-on projects and e
   <tr>
     <td width="50%" valign="top">
 
-### Merdian
+### MERDIAN
 
 A web-based newspaper platform focused on presenting news content through an organized and accessible interface.
 
@@ -98,7 +98,7 @@ A web-based newspaper platform focused on presenting news content through an org
 </td>
 <td width="50%" valign="top">
 
-### Orbit
+### ORBIT
 
 A messaging application inspired by WhatsApp, exploring the development of web-based communication interfaces.
 
